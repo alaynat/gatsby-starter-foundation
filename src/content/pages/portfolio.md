@@ -45,7 +45,7 @@ This was initially the short-form essay for Chris Warren’s Data Stories class.
   
   This document was created for the class Rhetorical Grammar. The assignment was to do an analysis of a corpus of your choosing. I decided to analyze language choices in tweets from B2B and B2C companies.
   
-  ###[Ethics in News Writing](https://d64a83ca-1c7f-44e6-8def-5305300a7fe5.filesusr.com/ugd/ddc01d_f91c692702974843871d88dbcd5b570c.pdf)
+  ### [Ethics in News Writing](https://d64a83ca-1c7f-44e6-8def-5305300a7fe5.filesusr.com/ugd/ddc01d_f91c692702974843871d88dbcd5b570c.pdf)
   
   This document was created for the class Style. The analysis is meant to explain how ethics is used in style and how it can create dilemmas for writers. In this essay, I found example sources that supported the argument I was trying to create. I also revised these sources to show how a writer could be more ethical in the information they are presenting.
   
